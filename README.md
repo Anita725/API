@@ -82,6 +82,6 @@ Requisitos não funcionais
 
 # Backlog
 
-![sprint backlog](https://github.com/user-attachments/assets/3cd57286-b60f-4fc2-9912-2054472015f9)
+![sprint backlog](![Backlog](https://github.com/user-attachments/assets/a98f2cbb-3cfa-42a5-8789-9a14d004e524)
 
 </div>
