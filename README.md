@@ -8,8 +8,9 @@
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Power BI](#Power-BI)
+* [Backlog](#Backlog)
+  
 
 # Projeto (API) 
 Mapear as cargas de importação e exportação e encontrar as cargas com maior potencial para movimentação no aeroporto de São José dos Campos.
@@ -73,30 +74,14 @@ Requisitos não funcionais
 - GitHub
 - Jira
   
-# Backlog do produto
+# Power BI
 
 <div align="center">
 
 ![product backlog](https://github.com/user-attachments/assets/d091f123-6c3b-4d7c-a079-a8b3887c7fa9)
-)
+
+# Backlog
 
 ![sprint backlog](https://github.com/user-attachments/assets/3cd57286-b60f-4fc2-9912-2054472015f9)
-)
+
 </div>
-
-# Competências desenvolvidas
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Conhecimento em excel
-<summary>Facilidade com o uso de sistemas</summary>
-<summary>Habilidade de digitação</summary>
-<summary>Boa comunicação para apresentações</summary>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Planejamento
-<summary>Boa comunicação</summary>
-<summary>Adaptação á mudanças no grupo</summary>
-<summary>⁠Distribuição de tarefas</summary>
-<summary>⁠Proatividade dos integrantes</summary>
