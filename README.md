@@ -8,7 +8,6 @@
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Power BI](#Power-BI)
 * [Backlog](#Backlog)
   
 
