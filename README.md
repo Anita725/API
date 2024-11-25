@@ -71,15 +71,9 @@ Requisitos não funcionais
 - Comex Stat
 - GitHub
 - Jira
-  
-# Power BI
-
-<div align="center">
-
-![product backlog](https://github.com/user-attachments/assets/d091f123-6c3b-4d7c-a079-a8b3887c7fa9)
 
 # Backlog
 
-![sprint backlog](![Backlog](https://github.com/user-attachments/assets/a98f2cbb-3cfa-42a5-8789-9a14d004e524)
+![Backlog](https://github.com/user-attachments/assets/a98f2cbb-3cfa-42a5-8789-9a14d004e524)
 
 </div>
